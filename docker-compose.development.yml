@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   street-map-tile-proxy:
     build:
